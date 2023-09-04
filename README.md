@@ -1,16 +1,23 @@
-# lista_de_tarefas
+# Lista de Tarefas Dart + Flutter
+## 📷 Video do Projeto
 
-A new Flutter application.
+https://github.com/tassiogustavo/lista_de_tarefas/assets/70405308/e2a93e49-1f97-4fac-97a0-80c2917f7f78
 
-## Getting Started
+## 📝 Descrição do projeto
+Projeto de um aplicativo de lista de tarefas o qual faz todo o CRUD das tarefas. Quando uma tarefa é excluida há a possibilidade de desfazer a exclusão em alguns segundos. Os dados são salvos em um arquivo json dentro da memória do aplicativo.
 
-This project is a starting point for a Flutter application.
+## 💻 Features do projeto
+* Criação de tarefas, mudança de status como concluida e exclusão de tarefa
+* Possibilidade de desfazer exclusão em segundos caso tenha ocorrido engano
+* Criação e manipulação a partir de um arquivo json salvo na memória interna
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
+* LIB: path_provider (encontrar locais comumente usados ​​no sistema de arquivos)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 📌 Links
+* [path_provider](https://pub.dev/packages/path_provider)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
